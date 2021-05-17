@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 16 12:59:39 IST 2021
+0.base=F\:\\Android Application Project\\RoomDataBase\\AndroidRoomTodoList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

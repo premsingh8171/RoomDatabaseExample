@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\438b894957f33c5d9e9bbed964aba7a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\70af3c41693177d70392e51a99a40dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a7f308448a2a41e74ce5aedb91ca78e9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a66635f8214936196bbce667930645d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de57fe5b29f7c965375fc9382511bff2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fda6ddc87a5502dadf08140e85c5c1ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4755949b34ca7f752fd6b991fbe582b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0816fd510008d443aaa2e33e1ed3d32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\356b90995c8fc89948e7bae499f03c28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cadb70c9b01bffb3f7fbd9932104c906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7a4488743b8a84c2d3e5c81e31992e69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bcb30a7de820f00de8e6e7174327be87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\03ca3d5ae0158b0fd049b2a523b9f393\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd1f2907f5bbdf9416382c1b2183eba6\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\68c8c5e472e1f493178b9795d68071f3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f62425928380984b9967cec0333d766f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28f253d618a583de3884e91cc9bf1d93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c79b42c1ffba35a966c43f15a5967335\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51392eb9a7dd9eb55ead181363b4c744\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63c927a39c61857569548753030869fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b1a6cce074b525a69e7d9ccfbf461ff\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a7f308448a2a41e74ce5aedb91ca78e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a7f308448a2a41e74ce5aedb91ca78e9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.journaldev.androidroomtodolist.activity.MainActivity
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.journaldev.androidroomtodolist.activity.TodoNoteActivity
+ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:19:9-22:68
+	android:label
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:21:13-61
+	android:theme
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml:20:13-54
+uses-sdk
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\438b894957f33c5d9e9bbed964aba7a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\438b894957f33c5d9e9bbed964aba7a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\70af3c41693177d70392e51a99a40dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\70af3c41693177d70392e51a99a40dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a7f308448a2a41e74ce5aedb91ca78e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\a7f308448a2a41e74ce5aedb91ca78e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a66635f8214936196bbce667930645d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a66635f8214936196bbce667930645d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de57fe5b29f7c965375fc9382511bff2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\de57fe5b29f7c965375fc9382511bff2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fda6ddc87a5502dadf08140e85c5c1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fda6ddc87a5502dadf08140e85c5c1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4755949b34ca7f752fd6b991fbe582b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4755949b34ca7f752fd6b991fbe582b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0816fd510008d443aaa2e33e1ed3d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0816fd510008d443aaa2e33e1ed3d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\356b90995c8fc89948e7bae499f03c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\356b90995c8fc89948e7bae499f03c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cadb70c9b01bffb3f7fbd9932104c906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cadb70c9b01bffb3f7fbd9932104c906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7a4488743b8a84c2d3e5c81e31992e69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7a4488743b8a84c2d3e5c81e31992e69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bcb30a7de820f00de8e6e7174327be87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bcb30a7de820f00de8e6e7174327be87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\03ca3d5ae0158b0fd049b2a523b9f393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\03ca3d5ae0158b0fd049b2a523b9f393\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd1f2907f5bbdf9416382c1b2183eba6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd1f2907f5bbdf9416382c1b2183eba6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\68c8c5e472e1f493178b9795d68071f3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\68c8c5e472e1f493178b9795d68071f3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f62425928380984b9967cec0333d766f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f62425928380984b9967cec0333d766f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28f253d618a583de3884e91cc9bf1d93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\28f253d618a583de3884e91cc9bf1d93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c79b42c1ffba35a966c43f15a5967335\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c79b42c1ffba35a966c43f15a5967335\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51392eb9a7dd9eb55ead181363b4c744\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51392eb9a7dd9eb55ead181363b4c744\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63c927a39c61857569548753030869fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63c927a39c61857569548753030869fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b1a6cce074b525a69e7d9ccfbf461ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PREM SINGH JAY DAKSH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b1a6cce074b525a69e7d9ccfbf461ff\AndroidManifest.xml:20:5-44
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Application Project\RoomDataBase\AndroidRoomTodoList\app\src\main\AndroidManifest.xml
